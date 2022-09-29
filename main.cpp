@@ -29,6 +29,8 @@ void UpdateBranches(vector<Branch*>& branches, int& current, vector<Vector2f>& p
 
 int main()
 {
+    // TEST 1
+    // TEST 2
 
     VideoMode vm(1920, 1080);
     RenderWindow window(vm, "Timber!!", Style::Default);
